@@ -1,4 +1,4 @@
-module.exports = function getBase(base) {
+module.exports = function getBase(number) {
     let copyNum = number;
     let base = 2;
 	
